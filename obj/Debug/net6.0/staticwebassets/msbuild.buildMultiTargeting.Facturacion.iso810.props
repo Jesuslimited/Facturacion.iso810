@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Facturacion.iso810.props" />
+</Project>
